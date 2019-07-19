@@ -1,0 +1,50 @@
+-IC:/Qt/Qt5.11.1/5.11.1/msvc2015_64/mkspecs/win32-msvc
+-IC:/Users/20155/Desktop/Kinect2QtTest
+-IC:/Users/20155/Desktop/Kinect2QtTest/Kinect2SKDLib/x64
+-IC:/Users/20155/Desktop/Kinect2QtTest/Kinect2SKDLib/x64
+-IC:/Users/20155/Desktop/Kinect2QtTest/Kinect2SKDLib/x64
+-IC:/Users/20155/Desktop/Kinect2QtTest/Kinect2SKDLib/x64
+-IC:/Users/20155/Desktop/Kinect2QtTest/OpenCVLib
+-IC:/Users/20155/Desktop/Kinect2QtTest/OpenCVLib
+-IC:/Users/20155/Desktop/Kinect2QtTest/OpenCVInc/opencv
+-IC:/Users/20155/Desktop/Kinect2QtTest/OpenCVInc/opencv2
+-IC:/Users/20155/Desktop/Kinect2QtTest/OpenCVInc
+-IC:/Program Files/PCL1.8.0/include/pcl-1.8
+-IC:/Users/20155/Desktop/Kinect2QtTest/INCLUDEPATH
+-IC:/Users/20155/Desktop/Kinect2QtTest/+=
+-IC:/Program Files/PCL1.8.0/include/pcl-1.8/pcl
+-IC:/Users/20155/Desktop/Kinect2QtTest/INCLUDEPATH
+-IC:/Users/20155/Desktop/Kinect2QtTest/+=
+-IC:/Program Files/PCL1.8.0/3rdParty/Boost/include/boost-1_61
+-IC:/Users/20155/Desktop/Kinect2QtTest/INCLUDEPATH
+-IC:/Users/20155/Desktop/Kinect2QtTest/+=
+-IC:/Program Files/PCL1.8.0/3rdParty/Eigen/eigen3
+-IC:/Users/20155/Desktop/Kinect2QtTest/INCLUDEPATH
+-IC:/Users/20155/Desktop/Kinect2QtTest/+=
+-IC:/Program Files/PCL1.8.0/3rdParty/FLANN/include
+-IC:/Users/20155/Desktop/Kinect2QtTest/INCLUDEPATH
+-IC:/Users/20155/Desktop/Kinect2QtTest/+=
+-IC:/Program Files/PCL1.8.0/3rdParty/FLANN/include/flann
+-IC:/Users/20155/Desktop/Kinect2QtTest/INCLUDEPATH
+-IC:/Users/20155/Desktop/Kinect2QtTest/+=
+-IC:/Program Files/OpenNI2/Include
+-IC:/Users/20155/Desktop/Kinect2QtTest/INCLUDEPATH
+-IC:/Users/20155/Desktop/Kinect2QtTest/+=
+-IC:/Program Files/PCL1.8.0/3rdParty/Qhull/include
+-IC:/Users/20155/Desktop/Kinect2QtTest/INCLUDEPATH
+-IC:/Users/20155/Desktop/Kinect2QtTest/+=
+-IC:/Program Files/PCL1.8.0/3rdParty/VTK/include/vtk-7.0
+-IC:/Qt/Qt5.11.1/5.11.1/msvc2015_64/include
+-IC:/Qt/Qt5.11.1/5.11.1/msvc2015_64/include/QtWidgets
+-IC:/Qt/Qt5.11.1/5.11.1/msvc2015_64/include/QtGui
+-IC:/Qt/Qt5.11.1/5.11.1/msvc2015_64/include/QtANGLE
+-IC:/Qt/Qt5.11.1/5.11.1/msvc2015_64/include/QtCore
+-I.
+-IC:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\ATLMFC\include
+-IC:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include
+-IC:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um
+-IC:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt
+-IC:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared
+-IC:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um
+-IC:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt
+-IC:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt
